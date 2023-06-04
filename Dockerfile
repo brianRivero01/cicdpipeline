@@ -2,7 +2,7 @@
 FROM node:latest
 
 # Se establece el directorio de trabajo
-WORKDIR /fullstack-app/site
+WORKDIR /site
 
 # Se copian los archivos necesarios al contenedor
 COPY site/package.json .
