@@ -38,4 +38,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: brianRivero01/app:latest
+          tags: brianrivero01/app:latest
